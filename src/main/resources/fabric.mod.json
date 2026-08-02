@@ -3,7 +3,7 @@
 	"id": "autoclicker",
 	"version": "${version}",
 	"name": "Autoclicker",
-	"description": "Hold a key, click 10 times per second. Separate binds for left (attack) and right (use), both configurable in Options -> Controls -> Key Binds.",
+	"description": "Hold a key, click 10 times per second - instantly, from the first tick, in the world and inside GUIs. Separate binds for left (attack) and right (use), both configurable in Options -> Controls -> Key Binds.",
 	"authors": [
 		"Tima"
 	],
